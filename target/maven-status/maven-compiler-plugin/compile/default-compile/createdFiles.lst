@@ -1,0 +1,6 @@
+com\mycompany\generics\model\Pessoa.class
+com\mycompany\generics\logic\CrudLogic.class
+com\mycompany\generics\repositorys\GenericRepository.class
+com\mycompany\generics\model\Funcionario.class
+com\mycompany\generics\model\Cliente.class
+com\mycompany\generics\Generics.class
